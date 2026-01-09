@@ -1,4 +1,4 @@
-# Certificates
+# 📜 Certifications (DeepLearning.AI)
 
 - [Building Generative AI Applications with Gradio](https://learn.deeplearning.ai/accomplishments/101d28cf-78dd-4e8a-90e0-f7f1ed9d300a?usp=sharing)
 - [Fine Tuning Large Language Models](https://learn.deeplearning.ai/accomplishments/c1fd44da-4608-4db5-aec2-067ee8f80b5a?usp=sharing)
@@ -48,6 +48,31 @@
 - [Reasoning with o1](https://learn.deeplearning.ai/accomplishments/8e71711c-58b5-4ed5-8f2e-02a89cd77c07?usp=sharing)  
 - [Building Towards Computer Use with Anthropic](https://learn.deeplearning.ai/accomplishments/e2209188-97b4-4349-86ae-72d19559e711?usp=sharing)  
 - [Build Apps with Windsurf’s AI Coding Agents](https://learn.deeplearning.ai/accomplishments/945e4695-4d3d-4696-857c-a0e4489a17a9?usp=sharing)
+
+
+
+# 📜 Certifications (LangChain Academy)
+
+- [Introduction to LangGraph – LangChain](https://academy.langchain.com/certificates/dbfm5dno1o)
+- [Introduction to LangSmith – LangChain](https://academy.langchain.com/certificates/ultm5h3jvy)
+- [Building Ambient Agents with LangGraph](https://academy.langchain.com/certificates/6uosmn7beq)
+- [Deep Research with LangGraph](https://academy.langchain.com/certificates/1viey8tbmw)
+- [Deep Agents](https://academy.langchain.com/certificates/yy3icw3aqh)
+- [LangChain Essentials – Python](https://academy.langchain.com/certificates/vtjenag538)
+- [LangGraph Essentials – Python](https://academy.langchain.com/certificates/09ller7mut)
+- [LangSmith Essentials](https://academy.langchain.com/certificates/r00db0nvjk)
+- [Foundation: Introduction to LangChain – Python](https://academy.langchain.com/certificates/j5lxdy3tgs)
+
+
+# 📜 Certifications (Neo4j GraphAcademy)
+
+- [Neo4j Fundamentals](https://graphacademy.neo4j.com/c/c1c4a397-73ef-40e8-83d3-8bfa8fa4beac/)
+- [Cypher Fundamentals](https://graphacademy.neo4j.com/c/cb996d37-dcb8-43ba-b53f-818078474835/)
+- [Importing Data Fundamentals](https://graphacademy.neo4j.com/c/2595857f-3c57-4403-a432-c43c1fa50ec5/)
+- [Graph Data Modeling Fundamentals](https://graphacademy.neo4j.com/c/dd3c5c47-c56f-4c55-bb65-e5794324a938/)
+- [Using Neo4j with Python](https://graphacademy.neo4j.com/c/28ac40aa-6225-4e1b-996f-d7a8d958ef0b/)
+
+
+# 📜 Certifications (Huggingface)
+
 - [Fundamentals of AI Agents - Huggingface](https://cdn-lfs-us-1.hf.co/repos/f2/34/f2344151f60f6027c436821dc61cf3f27a46435de57df8df50ad02b5acca7c07/ff56578538d20b861eb2d687c59436d28b9632da9cd9aaa1397c753971fa12dd?response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-02-12.png%3B+filename%3D%222025-02-12.png%22%3B&response-content-type=image%2Fpng&Expires=1741790342&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTc5MDM0Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zL2YyLzM0L2YyMzQ0MTUxZjYwZjYwMjdjNDM2ODIxZGM2MWNmM2YyN2E0NjQzNWRlNTdkZjhkZjUwYWQwMmI1YWNjYTdjMDcvZmY1NjU3ODUzOGQyMGI4NjFlYjJkNjg3YzU5NDM2ZDI4Yjk2MzJkYTljZDlhYWExMzk3Yzc1Mzk3MWZhMTJkZD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=HrGEeIK%7E0PKDIor8JpcTLovEmgXCXEkWzndhBG-Yw66%7EYGMvs10N9cUr7P-dw-ozt69cV8GfyaqNrCY88jNJsKGh6S61m0T%7Ep-AdBmEpzoQMqhwNXppaP%7Ez4I9Fmw5hYbsX%7E-KbqoHfFHV8lw0N3OAvuDTldacRsz611cA6nkc00hrb%7ErkfZXJHWZ%7EEPiY%7EU9qjzGEpOLIOmQx2KOJMBqK-EHGMHJhvHz%7EcvuNiiDIDMCqG1pCpisqc1u7nIWJBB6nJT2jDCz391DqJzyZ9yaqBdCDwViqNmbcvHBUi%7ELKSt4-6lMsofQ9Mhci3DfNUIwuaqEZJ%7E%7ECmSyNT-JvlHkQ__&Key-Pair-Id=K24J24Z295AEI9)
-- [Introduction to LangGraph - LangChain](https://academy.langchain.com/certificates/dbfm5dno1o)
-- [Introduction to LangSmith - LangChain](https://academy.langchain.com/certificates/ultm5h3jvy)
